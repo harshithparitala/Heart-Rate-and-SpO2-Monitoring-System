@@ -165,7 +165,5 @@ void loop() {
 
 ---
 
-## Repository Structure
-- **/transmitter/**: Contains the Arduino code.
-- **/receiver/**: Contains the VSD Squadron Mini board code.
-- **README.md**: Project description and setup instructions.
+## Demonstration 
+
