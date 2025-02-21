@@ -9,7 +9,7 @@ The data is transmitted wirelessly via an HC-05 Bluetooth module connected to th
 
 ## Features
 1. Real-time monitoring of heart rate and SpO2.
-2. Wireless data transmission via Bluetooth (HC-05 module).
+2. Wireless data transmission via Bluetooth (HC-05 modules).
 3. Display on I2C LCD connected to the VSD Squadron Mini board.
 4. Reliable and accurate data averaging over a configurable period.
 5. Modular code structure for easy adaptability.
